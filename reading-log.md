@@ -1,6 +1,5 @@
 * http://had-read.r15.railsrumble.com/ # cool appp for bookmarks
 * https://github.com/had-read/had-read
-* https://google.com # google hah hah
 
 * http://www.eq8.eu #  EquiValent website
 * 
