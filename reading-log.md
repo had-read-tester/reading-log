@@ -1,3 +1,5 @@
+* https://github.com/had-read/reading-log # official reading-log repo
+* 
 * http://railsrumble.com/ # Rails Rumble
 * http://had-read.com
 
